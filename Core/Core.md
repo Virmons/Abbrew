@@ -1,0 +1,6 @@
+[[Checks]]
+[[Converted Value]]
+[[Movement]]
+[[Resting]]
+[[Persistent Effects]]
+[[Cover]]
