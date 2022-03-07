@@ -43,6 +43,7 @@ ParrySuccess--->NoDamage
 NoDamage[The target avoids taking any damage]
 BlockResult--->DamageReduction
 DamageReduction--->ResolveWounds[If the damage is not fully reduced, then it may cause Wounds and Pain to the target as defined in Damage Types]
+ReactionFailure--->DamageReduction
 ```
 # Attacking Objects
 
