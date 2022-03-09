@@ -18,7 +18,7 @@ Creatures directly behind you grant a +10 bonus.
 
 # _
 
-![[Positioning Example#Example]]
+![[Combat/Positioning/Positioning Example#Example]]
 
   
 

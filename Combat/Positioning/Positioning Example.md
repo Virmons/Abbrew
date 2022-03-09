@@ -1,4 +1,4 @@
-#### Example
+# Example
 
 You are represented by the A, facing upwards.
 
