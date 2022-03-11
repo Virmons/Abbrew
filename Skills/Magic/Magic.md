@@ -8,6 +8,8 @@ N.B: You must first pick up a Signature Skill to be able to use Spell Points.
 
 ![[Concepts#Concepts]]
 
+![[General Skills#General Magic Skills]]
+
 ![[Skills/Magic/Supplementary/_Unformatted#Supplementary Skills]]
 
 ![[Applicators#Applicators]]

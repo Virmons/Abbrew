@@ -26,9 +26,7 @@ The integrity of the item is halved for each negative quality e.g. an item at -2
 
 ### Reduction
 
-The reduction listed for a material is the damage type reduced by the material.
-
-  
+The reduction listed for a material is the damage type reduced by the material. 
 
 Type
 

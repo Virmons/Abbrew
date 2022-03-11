@@ -17,7 +17,7 @@ When making an attack, a hit is guaranteed if the target doesn’t attempt to pr
 4. Damage is reduced by Damage Reduction of the same type as the damage. 
     Damage Reduction(Any) can be used to reduce any one type of incoming damage per attack.
 
-5. If the Damage is not fully reduced, then it may cause [[Wounds]] and [[Pain]] to the target.
+5. If the Damage is not fully reduced, then it may cause [[Wounds]] and [[Core/Creatures/Pain]] to the target.
 
 # Flow
 

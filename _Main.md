@@ -1,2 +1,3 @@
-For general rules see [[Core]]
-For combat [[Combat]]
+For general rules see [[Core|core]].
+For [[Combat|combat]].
+For [[Skills|skills]].
