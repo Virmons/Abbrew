@@ -1,4 +1,4 @@
-#### Sound 1
+# Sound 1
 
 Complexity: 2
 

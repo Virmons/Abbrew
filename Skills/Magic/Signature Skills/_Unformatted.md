@@ -148,7 +148,7 @@ Resource: Flow
 
 ##### Flow
 
-For each point of Flow that you possess, you gain a bonus to Will Checks made as part of [Conduit](https://docs.google.com/document/d/1vI-IAbJokljZw4UKFW5vd6wz5fVYj52uFDCSoCZacHQ/edit#heading=h.90ycssqk0225) equal to half of your Visualisation Bonus; you suffer the same as a penalty to all other checks.
+For each point of Flow that you possess, you gain a bonus to Will Checks made as part of [Conduit](https://docs.google.com/document/d/1vI-IAbJokljZw4UKFW5vd6wz5fVYj52uFDCSoCZacHQ/edit#heading=h.90ycssqk0225) equal to half of your Visualisation Bonus; you suffer the same as a penalty to all other checks, as well as additional damage taken and Pain received.
 
 ##### Conduit
 
@@ -174,9 +174,7 @@ Provokes Reactions: No
 
 Manifest the concept of your Flow depending on the number of Flow points you have.
 
-Your Flow is reduced to 0.
-
-  
+Your Flow is reduced to 0.  
 
 Flow
 
@@ -1336,100 +1334,3 @@ Provokes Reactions: Yes
 
 Call upon lesser spirits to aid in your spells, roll 1D10 + 1D10 for each Tier you possess, add the converted result to your Visualisation Total.
 
-#### Unstable Magics
-
-While the mental load of your spells is lessened, the physical toll could be your end.
-
-Resource: Instability (Max 5)
-
-##### Instability
-
-When you have Instability, you are Vulnerable to all damage.
-
-Increase the critical range of your spell damage by your instability. 
-
-##### Brace (Supplementary)
-
-Ability - Cost: 1 - Once per Round
-
-Fatigue: Physical
-
-Provokes Reactions: No
-
-You do not suffer Pain as part of your next Unstable Manifestation.
-
-##### Destabilise 
-
-Ability - Cost: 1 - Once per Round
-
-Fatigue: Physical
-
-Provokes Reactions: No
-
-When you touch a creature this turn, you can choose to transfer instability to it. They suffer vulnerability to all damage. You suffer pain equal to the Instability transfered. 
-
-##### Internalise Instability
-
-Prerequisites: [Unstable Manifestation](https://docs.google.com/document/d/1vI-IAbJokljZw4UKFW5vd6wz5fVYj52uFDCSoCZacHQ/edit#heading=h.ow92b2hwhlk2)
-
-Reaction - Once per Round
-
-Fatigue: Physical
-
-Provokes Reactions: No
-
-Trigger: You used Unstable Manifestation
-
-Do not suffer any healing wounds or pain, do not reduce your current blood by your Healing Wounds. 
-
-Gain Instability equal to the damage rounded to the next 10 and then divided by 10.
-
-##### Stabilise
-
-Ability - Cost: 1- Once per Round
-
-Fatigue: Physical
-
-Provokes Reactions: No
-
-Suffer your current Instability as Pain. 
-
-Reduce your Instability to 0.
-
-##### Unstable Casting 
-
-Ability - Cost: 1 - Push
-
-Fatigue: Both 
-
-Provokes Reactions: Yes
-
-This ability acts as Cast. 
-
-Suffer healing Wounds equal to the converted Spell Point cost instead of spending Spell Points.
-
-Reduce your blood by your Healing Wounds.
-
-#### Willful Instability
-
-Prerequisites: Unstable Casting
-
-Ability - Cost: 1 - Push
-
-Fatigue: Both
-
-Provokes Reactions: Yes
-
-This ability acs as Unstable Casting. 
-
-Make a Will Check, reduce the healing wounds suffered by the converted result. 
-
-##### Unstable Visualisation (Implement, Supplementary)
-
-Ability - Cost: 1 - Push
-
-Fatigue: Both
-
-Provokes Reactions: No
-
-As Visualise, but gain 1 instability make the check Strong.
