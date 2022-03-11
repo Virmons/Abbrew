@@ -1,10 +1,10 @@
-## Bonuses and Penalties
+# Bonuses and Penalties
 
-There are various types of Bonus and Penalty, typed Bonuses do not stack with Bonuses of the same type with only the largest applying; though they will stack with Bonuses of other types and all untyped Bonuses stack.
+There are various ways to gain Bonuses and Penalties, those from the same source do not stack e.g. two different spells both increasing Constitution would not stack, the larger of the two would take effect, likewise if they were both decreasing Constitution, only the largest penalty would apply.
 
-Penalties always stack however, regardless of type.
-
-### Bonuses
+## Strong / Weak
+Strong and Weak are terms used to determine whether a creature should be rolling more dice in a given situation (Strong) or rolling penalty dice to be subtracted from their roll result (Weak).
+Strong / Weak stack and counteract eachother.
 
 #### Strong
 
@@ -25,7 +25,3 @@ The result of a Penalty Die is removed from the roll total.
 When a creature gains Weak, it is usually accompanied by a specific type of roll e.g. Weak(Dexterity) 2, this would mean that the creature would roll 2 penalty dice on any Dexterity-based check.
 
 Weak counteracts strong and the two can cancel eachother out if the values are equal.
-
-#### Distraction
-
-Distraction Penalties are caused by situations such as being flanked or upon breaking concentration.

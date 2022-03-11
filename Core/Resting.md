@@ -20,6 +20,9 @@ Remove Exhaustion.
 
 Regain all Spell Points.
 
-# Hunger
+# Long Term Healing
+A creature with the Injury or Broken condition may heal over time to remove these conditions, they heal at a rate equal to their converted Constitution Bonus each Week (10 Days), this is their natural regeneration.
 
-A creature that does not eat when it is required to, gains Exhaustion at the end of the day.
+# Hunger and Thirst
+
+A creature that does not eat and drink when it is required to, gains Exhaustion at the end of the day.
