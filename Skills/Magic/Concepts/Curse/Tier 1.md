@@ -1,0 +1,1 @@
+![[Curse 1#Curse 1]]

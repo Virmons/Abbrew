@@ -3273,57 +3273,7 @@ The techniques you have available to you depends on the Skill's tier, this follo
 
 ## Abilities
 
-### Traits
 
-#### Affix
-
-This ability must be paired with a concept, it cannot be used on its own.
-
-#### Attack
-
-Abilities with the Attack trait all use the same pool for frequency of use and Push, so if you have one ability with Push 2 and the default attack ability, you could make one attack with the first ability, any limbs used in that ability would be taken into account for the attack ability and Push would be included appropriately.
-
-#### Complete
-
-This is usually paired with Concentration or a cost that exceeds one round, the frequency of the ability is to complete it e.g. if you were interrupted while Concentrating on the action, you do not lose that use of the ability. 
-
-Regardless of frequency, you can continue to use the ability until the use has been expended.
-
-#### Concentration
-
-Each time you use this Ability, increase your [Concentrating](https://docs.google.com/document/d/1vI-IAbJokljZw4UKFW5vd6wz5fVYj52uFDCSoCZacHQ/edit#heading=h.204g86fo4uy9) condition by 1.
-
-#### Continuation
-
-This will be tied to another ability which will likely have the Concentration trait; the use of this ability does not interrupt your Concentration.
-
-#### Delay
-
-When you select a skill with this trait, you cannot select any skill that lists it as a prerequisite using the same allotment of IP.
-
-#### Implement
-
-Each time this ability is used, increase your Implement score by 1.
-
-#### Limit
-
-When you select an ability with this trait, you cannot select it again using the same allotment of IP.
-
-#### Spell
-
-This ability can be modified by abilities with the Supplementary trait.
-
-#### Supplementary
-
-These abilities are used in conjunction with Cast to cast spells; they also possess the Concentration and Implement traits.
-
-#### Tool
-
-These abilities require a specific tool to perform them effectively if you do not possess the required tool any checks made are Weak 2. Improvised equivalents reduce this to Weak 1.
-
-#### Visualise
-
-Usually tied to abilities with the Supplementary trait, make a Visualisation Check and add the converted result to your Visualisation Total.
 
 ## Technique Improvements
 

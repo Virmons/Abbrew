@@ -1,7 +1,5 @@
 ### Dispel Magic
 
-### Divine Favor
-
 ### Message
 
 ### Neutralize Poison

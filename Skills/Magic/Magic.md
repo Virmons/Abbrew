@@ -20,7 +20,7 @@ N.B: You must first pick up a Signature Skill to be able to use Spell Points.
 
 [[Skills/Magic/Concepts/_Unformatted]]
 
-# Spells
+# Example Spells
 
 ## Tier 1
 

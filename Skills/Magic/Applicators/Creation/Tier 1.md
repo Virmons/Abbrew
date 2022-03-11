@@ -4,7 +4,7 @@
 
 ![[Area (Form)#Area Form]]
 
-![[Arm (Form)#Arm Form]]
+![[Limb (Form)#Arm Form]]
 
 ![[Corner (Form)#Corner Form]]
 
