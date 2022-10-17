@@ -1,3 +1,0 @@
-## Blessing of...
-Cost: 1 Belief
-Make use of another divine ability, targeting an ally that you can see.

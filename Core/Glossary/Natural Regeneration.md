@@ -1,1 +1,0 @@
-This is equal to the creature's [[Converted Value#Converted Value|converted]] Constitution Bonus.
