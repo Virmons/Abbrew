@@ -14,7 +14,7 @@ Different Damage Types will affect targets in differing ways
 |Force|Force damage is reduced by Physical reduction of the appropriate type.|-|As Physical Damage Type|
 |Heat|Creature gains the Burned Condition equal to the Tier.|The damage caused by fire damage is converted to Healing Wounds instead of Active Wounds. |Total blood is reduced by the wounds suffered. |
 |Holy|Holy damage is Strong, equal to the target’s negative alignment.|Current and Maximum blood is reduced by the damage suffered.|-|
-|Necrotic|Necrotic damage only affects organic tissue.|The target gains Necrosis for converted damage.|Current and Maximum blood is reduced by the damage suffered.|The target gains 1 Shock.|
+|Necrotic|Necrotic damage only affects organic tissue.|The target gains Necrosis for converted damage. Current and Maximum blood is reduced by the damage suffered.|The target gains 1 Shock.|
 |Piercing|Piercing damage has Penetrate equal to five multiplied by the Tier.|-|Creature gains the Gushing Wounds Condition|
 |Slashing|-|-|Wounds are Doubled|
 |Unholy|Unholy damage is Strong, equal to the target’s positive alignment.|Current and Maximum blood is reduced by the damage suffered.|-|
